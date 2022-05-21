@@ -14,8 +14,7 @@ const Palindrome = (word)=>{
     else{
         console.log("OOOuch!!! Not a palindrome")
     }
-
-    console.log(toString) 
+ 
 }
 
 Palindrome("A nut for a jar Of tuna")
